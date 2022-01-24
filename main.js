@@ -1,3 +1,4 @@
+// Install prompt-sync - https://www.npmjs.com/package/prompt-sync
 const prompt = require('prompt-sync')({ sigint: true });
 
 const hat = '^';
